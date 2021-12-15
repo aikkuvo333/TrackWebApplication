@@ -6,7 +6,8 @@ The application was made with Vue.
 # Contributors
 This web application has been made at Metropolia University of Applied Sciences by Tieto- & Viestintätekniikka students <b>Aivan Vo</b>, <b>Olli Ruuskanen</b> and <b>Elsa Rajala</b>.
 
-### REST- rajapinnan kutsut
+
+# REST- rajapinnan kutsut
 1. app.post("/api/createUser")
    <br>Kuvaus: Käyttäjän luonti
    <br> Hakee käyttäjän syöttämät rekisteröitymiseen vaadittavat tiedot ja tarkistaa syötteiden kriteerit. Käyttäjätiedot ja virheet on JSON-muodossa.
