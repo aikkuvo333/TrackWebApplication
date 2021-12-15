@@ -6,4 +6,4 @@ The page also includes recipes and training videos.
 The application was made with Vue.
 
 # Contributors 
-This web application has been made at Metropolia University of Applied Sciences by Tieto- & Viestintätekniikka students.The application was made by <b>Aivan Vo</b>, <b>Olli Ruuskanen</b> and <b>Elsa Rajala</b>.
+This web application has been made at Metropolia University of Applied Sciences by Tieto- & Viestintätekniikka students <b>Aivan Vo</b>, <b>Olli Ruuskanen</b> and <b>Elsa Rajala</b>.
