@@ -1,6 +1,6 @@
 # TRACK Web Application
-<img src="Näyttökuva 2021-12-14 kello 19.02.51.png" alt="About track sivustonäkymä" width="500"> <img src="Näyttökuva 2021-12-14 kello 19.03.12.png" alt="recipes sivustonäkymä" width="500">
-<img src="Näyttökuva 2021-12-15 kello 12.04.00.png" alt="etusivu" width="500">
+<img src="Näyttökuva 2021-12-14 kello 19.02.51.png" alt="About track sivustonäkymä" width="600"> <img src="Näyttökuva 2021-12-14 kello 19.03.12.png" alt="recipes sivustonäkymä" width="600">
+<img src="Näyttökuva 2021-12-15 kello 12.04.00.png" alt="etusivu" width="600">
 
 Demo web application for TRACK calorie counter idea. The idea of our web application is to count calories by adding the name of consumed food and the amount in grams. The application will count the desired calorie intake for the day based by users registeration information about gender and activity level. The page also includes recipes and training videos.
 
